@@ -26,7 +26,7 @@ The power stage is engineered to handle the high current bursts required by the 
 * **Transient Protection:** The front-end is hardened against hot-plug transients and basic industrial power surges.
 * **Thermal Management:** Wide copper pours and optimized trace widths ensure the 3.3V LDO/Regulator handles bursty loads without thermal throttling.
 
-![Power Front-End](./media/pwrfront.png)
+![Power Front-End](./sps_foot.png)
 
 ### 2. Sensor Integration (Sensirion SPS30)
 * **Signal Integrity:** Short-path I2C/Serial routing with local decoupling capacitors to ensure stable digital communication.
