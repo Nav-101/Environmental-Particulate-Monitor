@@ -32,7 +32,7 @@ The power stage is engineered to handle the high current bursts required by the 
 * **Signal Integrity:** Short-path I2C/Serial routing with local decoupling capacitors to ensure stable digital communication.
 * **Airflow Logic:** The PCB layout and connector placement were designed with enclosure integration in mind, ensuring the SPS30 has unobstructed airflow for accurate PM1.0, PM2.5, and PM10 measurements.
 
-![Sensor Interface](./media/sps_foot.png)
+![Sensor Interface](./pm_sps30.jpg)
 
 ### 3. Data Integrity & Logging
 To prevent data loss in the field, the system employs a robust logging architecture:
